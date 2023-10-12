@@ -16,6 +16,9 @@ import com.google.android.exoplayer2.MediaItem;
 import com.google.android.exoplayer2.ui.StyledPlayerView;
 
 public class MainActivity extends AppCompatActivity {
+    // Md.Sakib Ur Rahman(37)
+    //       Ferdous Mondol(52)
+    //      Sourove Hossen(90)
     ExoPlayer player;
     StyledPlayerView playerView;
     String videourl = "https://video.blender.org/download/videos/3d95fb3d-c866-42c8-9db1-fe82f48ccb95-804.mp4";
